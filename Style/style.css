@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+}
+.superior {
+  background-image: url("../img/angel-jimenez.jpg");
+ background-position: center;
+ background-size: cover;
+ height: 1050px;
+
+}
+.P1{
+  color: white;
+  text-align: center;
+  padding-top: 300px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 1100%;
+  margin-left: 100PX;
+}
+
+.img2 {
+  float: right;
+  margin-top: 10px;
+  margin-right: 150px;
+}
+
+.txt{
+  float:left;
+  width: 40%;
+  margin-left: 182px;
+  margin-top: 308px;
+}
+
+.P2{
+  font-size: 60px;
+  background-image: linear-gradient(45deg, #fd4c5c 50%, #e92363 50%);
+  display: inline-block;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#button{
+  float: left;
+  margin-left: 1px;
+}
+
+.img3 {
+  float: left;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+
+.txt1{
+  float:left;
+  width: 25%; 
+  margin-left: 550px;
+  margin-top: 200px;
+}
+.P5{
+  font-size: 60px;
+  background-image: linear-gradient(45deg, #fa4a54 50%, #e92363 50%);
+  display: inline-block;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.P6{
+  font-size: 40px;
+}
+
+
+#button1{
+  float: left;
+  margin-left: 5px;
+  margin-top: 33px;
+}
+
+
+.img4 {
+  float: center;
+  background-image: url("../img/angel-jimenez.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+}
+
+.txt2{
+  background: url(../img/john-raptis.png);
+ background-size: cover;
+ height: 930px;
+}
+
+.P{
+  color: white;
+  text-align: right;
+  padding-top: 300px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 90PX;
+  margin-right: 344PX;
+  margin-top: 100px ;
+}
+
+
+.PPP{
+  color: white;
+  margin-left: 1130PX;
+  margin-top: 100px ;
+  font-size: 20px;
+}
+
+#button2{
+  float: lefth;
+  margin-left: 1130px;
+  margin-top: 18px;
+}
+
+footer{
+  background-color: #fd4c5c;
+  height: 400px;
+}
+.final{ 
+  padding-top: 100px;
+  padding-left: 450px;
+}
+
+.final table td{
+  width: 300px;
+  color: white;
+}
+.col td{
+  padding-top: 50px;
+}
+
+.nombre{
+  float: left;
+  color: white;
+  margin-left: 430px;
+}
+
+.correo{
+  float: right;
+  color: white;
+  margin-right: 500px;
+}
+
+.linea{
+  color: white;
+  margin-top: 44px;
+  margin-left: 434px;
+  margin-right: 485px;
+}
+
+.clear{
+  clear: both;
+}
